@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CarRent/CarRent.iml" filepath="$PROJECT_DIR$/CarRent/CarRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiamondSolution/DiamondSolution.iml" filepath="$PROJECT_DIR$/DiamondSolution/DiamondSolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" filepath="$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-intermediary.iml" filepath="$PROJECT_DIR$/.idea/java-intermediary.iml" />
     </modules>
