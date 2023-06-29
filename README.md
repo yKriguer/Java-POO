@@ -1,3 +1,15 @@
+# 1 - The diamond problem
+Click [here](https://github.com/zKriguer/java-intermediary/tree/master/DiamondSolution) to see the Source code.
+
+The problem:
+
+![image](https://github.com/zKriguer/java-intermediary/assets/77925501/57fe892e-7281-43e5-a032-c8a169d7642c)
+
+The solution:
+
+![image](https://github.com/zKriguer/java-intermediary/assets/77925501/8975771c-ba52-43a5-a88f-cddfdc5c4765)
+
+
 # 1 - PaymentOnline with interfaces and services
 Click [here](https://github.com/zKriguer/java-intermediary/tree/master/CarRent) to see the Source code.
 
@@ -8,8 +20,6 @@ Domain:
 Service Layer design:
 
 ![image](https://github.com/zKriguer/java-intermediary/assets/77925501/3598da99-536a-4b58-9a25-632b7611414b)
-
-
 
 
 # 2 - CarRent with interfaces and services
