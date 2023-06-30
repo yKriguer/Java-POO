@@ -22,5 +22,5 @@ public class Program {
 		c.processDoc("My dissertation");
 		c.print("My dissertation");
 		System.out.println("Scan result: " + c.scan());
-	}
+}
 }
