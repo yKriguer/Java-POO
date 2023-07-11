@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/CarRent/CarRent.iml" filepath="$PROJECT_DIR$/CarRent/CarRent.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiamondSolution/DiamondSolution.iml" filepath="$PROJECT_DIR$/DiamondSolution/DiamondSolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" filepath="$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxGenericInList/MaxGenericInList.iml" filepath="$PROJECT_DIR$/MaxGenericInList/MaxGenericInList.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" filepath="$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintService/PrintService.iml" filepath="$PROJECT_DIR$/PrintService/PrintService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-intermediary.iml" filepath="$PROJECT_DIR$/.idea/java-intermediary.iml" />
     </modules>
   </component>
