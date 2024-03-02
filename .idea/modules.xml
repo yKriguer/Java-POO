@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/GetPut/GetPut.iml" filepath="$PROJECT_DIR$/GetPut/GetPut.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCodesAndEquals/HashCodesAndEquals.iml" filepath="$PROJECT_DIR$/HashCodesAndEquals/HashCodesAndEquals.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" filepath="$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapProduct/MapProduct.iml" filepath="$PROJECT_DIR$/MapProduct/MapProduct.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxGenericInList/MaxGenericInList.iml" filepath="$PROJECT_DIR$/MaxGenericInList/MaxGenericInList.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" filepath="$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintService/PrintService.iml" filepath="$PROJECT_DIR$/PrintService/PrintService.iml" />
