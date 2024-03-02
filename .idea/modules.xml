@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnyList/AnyList.iml" filepath="$PROJECT_DIR$/AnyList/AnyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarRent/CarRent.iml" filepath="$PROJECT_DIR$/CarRent/CarRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contravariant/Contravariant.iml" filepath="$PROJECT_DIR$/Contravariant/Contravariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Covariant/Covariant.iml" filepath="$PROJECT_DIR$/Covariant/Covariant.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiamondSolution/DiamondSolution.iml" filepath="$PROJECT_DIR$/DiamondSolution/DiamondSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetPut/GetPut.iml" filepath="$PROJECT_DIR$/GetPut/GetPut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashCodesAndEquals/HashCodesAndEquals.iml" filepath="$PROJECT_DIR$/HashCodesAndEquals/HashCodesAndEquals.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" filepath="$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxGenericInList/MaxGenericInList.iml" filepath="$PROJECT_DIR$/MaxGenericInList/MaxGenericInList.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" filepath="$PROJECT_DIR$/PaymentOnline/PaymentOnline.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintService/PrintService.iml" filepath="$PROJECT_DIR$/PrintService/PrintService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetLogsDiff/SetLogsDiff.iml" filepath="$PROJECT_DIR$/SetLogsDiff/SetLogsDiff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/TreeSet/TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Union/Union.iml" filepath="$PROJECT_DIR$/Union/Union.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-intermediary.iml" filepath="$PROJECT_DIR$/.idea/java-intermediary.iml" />
     </modules>
   </component>
